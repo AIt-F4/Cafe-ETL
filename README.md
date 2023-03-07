@@ -1,7 +1,7 @@
 # Cloud Computing: AWS Project
 Fully scalable ETL and Data Analytics  pipeline using AWS (IaC via CloudFormation)
 
-A [presentation going over the project] (https://docs.google.com/presentation/d/1Hf6a85HR2oBDDlbwiP2fimTFD9-cgouaZJqoo6eqgro/edit?usp=sharing)
+A [presentation going over the project](https://docs.google.com/presentation/d/1Hf6a85HR2oBDDlbwiP2fimTFD9-cgouaZJqoo6eqgro/edit?usp=sharing)
 ## Problem Overview
 ```
 Current Set-Up:
